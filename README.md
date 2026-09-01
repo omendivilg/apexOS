@@ -4,12 +4,12 @@ A full-stack personal health and productivity tracker for logging biometrics, nu
 
 ## Features
 
-- **Biometrics tracking** — weight and body fat over time
-- **Nutrition logging** — manual meal entry or AI-estimated macros (calories, protein, carbs, fats) from a natural-language description via the Gemini API
+- **Biometrics tracking** - weight and body fat over time
+- **Nutrition logging** - manual meal entry or AI-estimated macros (calories, protein, carbs, fats) from a natural-language description via the Gemini API
 - **Sleep & recovery** tracking
 - **Workout logging** by muscle group with weekly training-volume targets
-- **AI-generated monthly goals** — calorie, sleep, and target-weight targets tailored to the user's profile (age, height, sex, activity level) via Gemini
-- **Daily scoring** — a composite score/verdict (good / mixed / poor) based on adherence to calorie, sleep, weight, and training goals
+- **AI-generated monthly goals** - calorie, sleep, and target-weight targets tailored to the user's profile (age, height, sex, activity level) via Gemini
+- **Daily scoring** - a composite score/verdict (good / mixed / poor) based on adherence to calorie, sleep, weight, and training goals
 - **Dashboard & productivity views** for at-a-glance progress
 
 ## Tech Stack
